@@ -10,7 +10,7 @@ const config = {
   storageBucket: "crwn-db-1aedc.appspot.com",
   messagingSenderId: "360061630223",
   appId: "1:360061630223:web:2e3b2607e618d96506b07a",
-  measurementId: "G-3PSRS1C29Q",
+  measurementId: "G-3PSRS1C29Q"
 };
 
 firebase.initializeApp(config);
